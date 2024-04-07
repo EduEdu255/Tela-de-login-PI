@@ -1,0 +1,16 @@
+{
+    "name": "eduardo/tela-login-pi",
+    "description": "Tela de login para trabalho de pi",
+    "autoload": {
+        "psr-4": {
+            "Eduardo\\TelaLoginPi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "João Eduardo",
+            "email": "joaoeduardoagsilvall2019@gmail.com"
+        }
+    ],
+    "require": {}
+}
